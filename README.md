@@ -1,6 +1,6 @@
 # 🤖 AI Agent for Communicating with Apache Airflow DAGs
 
-This project demonstrates how to build an AI agent that can interact with your Apache Airflow DAGs using natural language. The agent leverages **Langchain AI**, **Gemini 2.0 Flash**, and the **Airflow REST API** to provide a conversational interface for querying and managing DAGs. The airflow platform is made via astro
+This project demonstrates how to build an AI agent that can interact with your Apache Airflow DAGs using natural language. The agent leverages **Langchain AI**, **Gemini 2.0 Flash**, and the **Airflow REST API** to provide a conversational interface for querying and managing DAGs. The airflow platform is made via [astro](https://www.astronomer.io/docs/astro/)
 
 
 ## 🚀 Features
